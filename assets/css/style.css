@@ -1,12 +1,12 @@
 body, html {
   margin: 0;
   padding: 0;
-  font-family: Tahoma, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ul { list-style: none; padding-left: 5px; }
 a { color:blue; text-decoration: none;}
 .bar {
-  background-color: #f9f9fb;
+  background-color: #00003a;
   padding:15px;
   border-top: solid 1px #cdcdcd;
   border-bottom: solid 1px #cdcdcd;
